@@ -1,3 +1,3 @@
 # Spot-Gas-Distribution-Mapping
 
-<iframe src="docs/heatmap.html" width="100%" height="600"></iframe>
+[View the interactive Heatmap-Plot](https://nvomhofe.de/projects/sniff-spot/heatmap.html)
